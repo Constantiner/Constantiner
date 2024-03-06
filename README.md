@@ -2,13 +2,12 @@
 
 Some facts about me:
 
-- 🔭 I’m working on my technical blog dedicated to modern web technologies. I'm creating it using React, TypeScript, Next.js, Tailwind, Prisma, PostgreSQL. I'm trying to use only cutting-edge technologies to enjoy it the most.
-- 🌱 I’m proficient in TypeScript/JavaScript stack on both the server and client side and passionate about cutting-edge technologies.
-- 👯 I’m always looking for new challenges to thrive on.
-- 💬 Ask me about my love for gaming and my impressive Nintendo games and consoles collection.
+- 🔭 I'm crafting a technical blog from scratch, harnessing the power of React, TypeScript, Next.js, Tailwind, Prisma, PostgreSQL. It's my playground for exploring cutting-edge technologies.
+- 🌱 I am skilled in TypeScript/JavaScript and love to code servers and clients. I am always on the lookout for the next big tech.
+- 👯 Adventure enthusiast, whether it's a new challenge or a round of gaming. Speaking of which, want to see my treasure trove of Nintendo games and consoles? 🎮
 - 📫 How to reach me: Email me at <constantiner@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/constantiner/).
 - 😄 Pronouns: He/Him
-- 🔍 Currently on a quest to find my next exciting adventure in the realm of web development! If you're looking for a seasoned full-stack developer with a knack for innovation and a passion for challenges, look no further.
+- 🔍 Currently on a quest to find my next exciting adventure in the realm of web development! Need a full-stack developer who thrives on innovation and loves a good challenge? You've found your party member.
 - 📜 For a detailed account of my epic journey so far, check out my [resume](Konstantin-Kovalev-Full-Stack.pdf).
-- 💌 Got an opportunity that you think might be a good fit? Don't hesitate to drop me a line. I promise I'm much friendlier than a Level 99 Boss in Shin Megami Tensei! 😄
+- 💌 Got a quest you think I might be interested in? I'm all ears! I promise I'm much friendlier than a Level 99 Boss in Shin Megami Tensei! 😄
 - ⚡ Fun fact: I can probably beat you at Mario Kart! 🏎️
