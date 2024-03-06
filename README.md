@@ -10,5 +10,5 @@ Some facts about me:
 - 😄 Pronouns: He/Him
 - 🔍 Currently on a quest to find my next exciting adventure in the realm of web development! If you're looking for a seasoned full-stack developer with a knack for innovation and a passion for challenges, look no further.
 - 📜 For a detailed account of my epic journey so far, check out my [resume](Konstantin-Kovalev-Full-Stack.pdf).
-- 💌 Got an opportunity that you think might be a good fit? Don't hesitate to drop me a line. I promise I'm much friendlier than a Level 99 Boss! 😄
+- 💌 Got an opportunity that you think might be a good fit? Don't hesitate to drop me a line. I promise I'm much friendlier than a Level 99 Boss in Shin Megami Tensei! 😄
 - ⚡ Fun fact: I can probably beat you at Mario Kart! 🏎️
