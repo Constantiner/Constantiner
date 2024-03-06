@@ -1,5 +1,7 @@
 # Hi there, I'm Konstantin Kovalev aka Constantiner 👋
 
+Some facts about me:
+
 - 🔭 I’m working on my technical blog dedicated to modern web technologies. I'm creating it using React, TypeScript, Next.js, Tailwind, Prisma, PostgreSQL. I'm trying to use only cutting-edge technologies to enjoy it the most.
 - 🌱 I’m proficient in TypeScript/JavaScript stack on both the server and client side and passionate about cutting-edge technologies.
 - 👯 I’m always looking for new challenges to thrive on.
