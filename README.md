@@ -1,16 +1,13 @@
-# Hi there, I'm Konstantin Kovalev aka Constantiner 👋
+# Greetings! I'm Konstantin Kovalev aka Constantiner 🧙‍♂️
 
-Some facts about me:
+Welcome to my realm of coding magic and gaming quests:
 
-- 🌱 I am skilled in TypeScript/JavaScript and love to code servers and clients. I am always on the lookout for the next big tech.
-- 👯 Adventure enthusiast, whether it's a new challenge or a round of gaming. Speaking of which, want to see my treasure trove of Nintendo games and consoles? 🎮
-- 🔭 I'm crafting a technical blog from scratch, harnessing the power of React, TypeScript, Next.js, Tailwind, Prisma, PostgreSQL. It's my playground for exploring cutting-edge technologies.
-- 📫 How to reach me: Email me at <constantiner@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/constantiner/).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can probably beat you at Mario Kart! 🏎️
+- 🛠️ **Code Alchemist**: I mix TypeScript, React, Next.js and Node.js to conjure up robust web applications. Coding isn’t just my job; it’s my spellcraft!
+- 🧩 **Puzzle Solver**: From debugging to full-stack development, I love untangling complex code puzzles.
+- 🎮 **Dungeon Master**: Not just a coder—I'm a master of Nintendo games, always ready for a Mario Kart duel.
+- 🚀 **Innovation Explorer**: Experimenting with new tech through pet projects, I’m constantly on a quest for the latest and greatest.
+- 🌐 **Remote Sorcerer**: With a decade of remote work, I've perfected my spells for seamless online collaboration.
 
-By the way, I'm seriously thinking about some new steps in my career journey, so some more facts on that topic:
+**Questing for New Adventures**: I'm open to joining a new guild where my coding magic can make a difference. Check out my [resume](Konstantin-Kovalev-Full-Stack.pdf) for more.
 
-- 🔍 Currently on a quest to find my next exciting adventure in the realm of web development! Need a full-stack developer who thrives on innovation and loves a good challenge? You've found your party member.
-- 📜 For a detailed account of my epic journey so far, check out my [resume](Konstantin-Kovalev-Full-Stack.pdf).
-- 💌 Got a quest you think I might be interested in? I'm all ears! I promise I'm much friendlier than a Level 99 Boss in Shin Megami Tensei! 😄
+**Summon Me**: Reach me via <constantiner@gmail.com> or connect on [LinkedIn](https://www.linkedin.com/in/constantiner/).
