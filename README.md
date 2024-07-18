@@ -8,6 +8,6 @@ Welcome to my realm of coding magic and gaming quests:
 - 🚀 **Innovation Explorer**: Experimenting with new tech through pet projects, I’m constantly on a quest for the latest and greatest.
 - 🌐 **Remote Sorcerer**: With a decade of remote work, I've perfected my spells for seamless online collaboration.
 
-**Questing for New Adventures**: I'm open to joining a new guild where my coding magic can make a difference. Check out my [resume](Konstantin-Kovalev-Full-Stack.pdf) for more.
+**Questing for New Adventures**: I'm open to joining a new guild where my coding magic can make a difference. Check out my [resume](Konstantin%20Kovalev%20Full-stack%20Developer.pdf) for more.
 
 **Summon Me**: Reach me via <constantiner@gmail.com> or connect on [LinkedIn](https://www.linkedin.com/in/constantiner/).
