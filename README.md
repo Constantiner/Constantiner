@@ -24,4 +24,4 @@ I’m a seasoned Full-Stack Developer with over 15 years of experience in crafti
 
 I’m currently open to new opportunities where I can apply my skills to create impactful software.
 
-Interested in working together? Feel free to explore my [GitHub](https://github.com/Constantiner), connect with me on [LinkedIn](https://www.linkedin.com/in/constantiner/), check out my [resume](Konstantin%20Kovalev%20Full-stack%20Developer.pdf), or reach me via <constantiner@gmail.com>.
+Interested in working together? Feel free to explore my [GitHub](https://github.com/Constantiner?tab=repositories), connect with me on [LinkedIn](https://www.linkedin.com/in/constantiner/), check out my [resume](Konstantin%20Kovalev%20Full-stack%20Developer.pdf), or reach me via <constantiner@gmail.com>.
