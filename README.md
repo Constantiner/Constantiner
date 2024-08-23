@@ -1,4 +1,4 @@
-# Greetings! I'm Konstantin Kovalev
+# Greetings! I'm Konstantin Kovalev 👋
 
 I’m a seasoned Full-Stack Developer with over 15 years of experience in crafting web solutions that effectively integrate front-end development with robust back-end systems. My focus is on building scalable, maintainable applications using TypeScript, React, Next.js, and Node.js.
 
