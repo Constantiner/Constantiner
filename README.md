@@ -24,6 +24,4 @@ I’m a seasoned Full-Stack Developer with over 15 years of experience in crafti
 
 - **[Fun-ctional](https://github.com/Constantiner/fun-ctional)**: A versatile library that brings familiar functional programming techniques, like composition and mapping, into the asynchronous world of JavaScript. With `fun-ctional`, you can seamlessly mix synchronous and asynchronous functions to create reusable and composable functions. This library is compatible with traditional functional utilities like those in Lodash, but always returns promises, making it ideal for modern JavaScript applications that rely on async/await. Key utilities include `acompose` for async composition, `apipe` for async piping, and `amap` for asynchronous mapping over iterables.
 
-I’m currently open to new opportunities where I can apply my skills to create impactful software.
-
 Interested in working together? Feel free to explore my [GitHub](https://github.com/Constantiner?tab=repositories), connect with me on [LinkedIn](https://www.linkedin.com/in/constantiner/), check out my [resume](Konstantin%20Kovalev%20Full-stack%20Developer.pdf), or reach me via <constantiner@gmail.com>.
